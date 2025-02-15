@@ -1,0 +1,14 @@
+ml-collections
+absl-py
+torch
+torchvision
+numpy
+scipy
+seaborn
+transformers
+timm
+scikit-learn
+python-dotenv
+wandb
+ftfy
+tensorboard
