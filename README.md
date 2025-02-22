@@ -2,6 +2,7 @@
 
 <p align="center"> 
     <a href="https://openreview.net/forum?id=iylpeTI0Ql"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR%2725&color=blue"> </a>
+    <a href="https://arxiv.org/pdf/2502.14604"><img src="https://img.shields.io/badge/arXiv-2502.14604-b31b1b.svg" alt="Paper"></a>
     <img src="https://badges.toozhao.com/badges/01JKZ8SEGVQBCX47RSHAS6EZ63/green.svg" alt="Count"/>
 </p>
 </div>
